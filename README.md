@@ -1,5 +1,5 @@
 # Materiais de Estudo
-_Repositório de materiais da Mentoria ALFORRIAH_
+_Repositório de recomendação de materiais da mentoria_
 
 * [Análise de Dados](#análise-de-dados)
 * [Aprendizado de Máquina](#aprendizdo-de-máquina)
@@ -10,10 +10,14 @@ _Repositório de materiais da Mentoria ALFORRIAH_
 * [Visualização de Dados](#visualização-de-dados)
 
 ## Análise de Dados
+- [Análise de Dados com Python (Playlist Programação Dinâmica)](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
+- [Dicas de Pandas](https://www.youtube.com/watch?v=MVd1cs7TDgA&list=PL5TJqBvpXQv6SSsEgQrNwpOLTupXPuiMQ)
+- [Efficient Pandas Dataframes in Python](https://www.youtube.com/watch?v=u4_c2LDi4b8)
 
 ## Aprendizado de Máquina
 - [Como projetos de Machine Learning falham por Flávio Clésio (Vídeo)](https://www.youtube.com/watch?v=FsCa_tVAqfo)
 - [O que faz uma pessoa engenheira de Machine Learning? com Thiago Santos(Vídeo)](https://youtu.be/BRhz6v-jfMM)
+- [Machine Learning em Python (Playlist Programação Dinâmica)](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
 - [Princípios de Modelagem Preditiva por André Lima (Artigo)](https://andlima.github.io/principios-preditiva)
 Este material apresenta um conjunto de princípios que ajudam a direcionar a construção de um modelo preditivo para problemas reais. É fruto da experiência do autor trabalhando com ciência de dados (principalmente machine learning) em consultoria para diferentes indústrias.
 
