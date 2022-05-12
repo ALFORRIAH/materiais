@@ -1,7 +1,7 @@
 # Materiais de Estudo
 _Repositório de materiais da Mentoria ALFORRIAH_
 
-- [Tópicos](#t-picos)
+- [Tópicos]
   * [Análise de Dados](#an-lise-de-dados)
   * [Aprendizado de Máquina](#aprendizado-de-m-quina)
   * [Estatística](#estat-stica)
@@ -9,8 +9,6 @@ _Repositório de materiais da Mentoria ALFORRIAH_
   * [Matemática para Computação](#matem-tica-para-computa--o)
   * [Programação](#programa--o)
   * [Visualização de Dados](#visualiza--o-de-dados)
-
-# Tópicos
 
 ## Análise de Dados
 
