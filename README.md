@@ -10,6 +10,7 @@ _Repositório de recomendação de materiais da mentoria_
 * [Visualização de Dados](#visualização-de-dados)
 
 ## Análise de Dados
+- [Fluxo do Trabalho com Dados do Zero à Prática (Escola de Dados)](https://ok.org.br/publicacoes/)
 - [Análise de Dados com Python (Playlist Programação Dinâmica)](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
 - [Dicas de Pandas](https://www.youtube.com/watch?v=MVd1cs7TDgA&list=PL5TJqBvpXQv6SSsEgQrNwpOLTupXPuiMQ)
 - [Efficient Pandas Dataframes in Python](https://www.youtube.com/watch?v=u4_c2LDi4b8)
@@ -63,6 +64,7 @@ Recomendações:
 - [Curso de SQL para Análise de Dados](https://www.youtube.com/watch?v=BRPUA0EgS4I&list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
 
 ## Visualização de Dados
+- [Data Visualisation - A Game of Decisions with Andy Kirk](https://www.youtube.com/watch?v=GVkXbQOzKNs)
 
 --------
 
