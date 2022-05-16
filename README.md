@@ -14,6 +14,7 @@ _Repositório de recomendação de materiais da mentoria_
 - [Análise de Dados com Python (Playlist Programação Dinâmica)](https://www.youtube.com/watch?v=RlGOaSPFtXc&list=PL5TJqBvpXQv5N3iV68bGBkea0HjMk98lR)
 - [Dicas de Pandas](https://www.youtube.com/watch?v=MVd1cs7TDgA&list=PL5TJqBvpXQv6SSsEgQrNwpOLTupXPuiMQ)
 - [Efficient Pandas Dataframes in Python](https://www.youtube.com/watch?v=u4_c2LDi4b8)
+- [Over 60 New York Times Graphs for Students to Analyze](https://www.nytimes.com/2020/06/10/learning/over-60-new-york-times-graphs-for-students-to-analyze.html)
 
 ## Aprendizado de Máquina
 - [Como projetos de Machine Learning falham por Flávio Clésio (Vídeo)](https://www.youtube.com/watch?v=FsCa_tVAqfo)
