@@ -65,6 +65,9 @@ Recomendações:
 - [Curso de SQL para Análise de Dados](https://www.youtube.com/watch?v=BRPUA0EgS4I&list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
 
 ## Visualização de Dados
+- [Como escolher uma ferramenta para fazer um gráfico? - The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
+- [Como escolher um gráfico? - DataViz Project](https://datavizproject.com/)
+- [Como escolher um gráfico? - The Data Visualisation Cataloue](https://datavizcatalogue.com/index.html)
 - [Data Visualisation - A Game of Decisions with Andy Kirk](https://www.youtube.com/watch?v=GVkXbQOzKNs)
 
 --------
