@@ -47,7 +47,7 @@ Este material apresenta um conjunto de princípios que ajudam a direcionar a con
 Se você já tem uma base boa do ensino médio:
 - [Mathematics for Machine Learning (Livro)](https://mml-book.github.io/)
 - [Linear Algebra and Learning from Data (Livro)](https://math.mit.edu/~gs/learningfromdata/)
-- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
+- [Mathematics for Machine Learning (University of Berkeley, 2018)](https://gwthomas.github.io/docs/math4ml.pdf)
 
 Não adianta tentar aprender aspectos avançados se você não tem uma base razoável de matemática elementar. Se a notação matemática, operações com matrizes, composição e inversão de funções ou trigonometria, por exemplo, te causam desconforto, sugiro revisar as bases com uma série de livros chamada [Fundamentos de Matemática Elementar](https://amzn.to/3bqrhGt). Uma outra opção é a [Khan Academy](https://pt.khanacademy.org/math).
 Discutimos alguns tópicos de matemática usando programação em uma série de lives no ano passado: [Matemática Elementar para Computação](https://matematica.pgdinamica.com/).
