@@ -20,6 +20,7 @@ _Repositório de recomendação de materiais da mentoria_
 - [Como projetos de Machine Learning falham por Flávio Clésio (Vídeo)](https://www.youtube.com/watch?v=FsCa_tVAqfo)
 - [O que faz uma pessoa engenheira de Machine Learning? com Thiago Santos(Vídeo)](https://youtu.be/BRhz6v-jfMM)
 - [Machine Learning em Python (Playlist Programação Dinâmica)](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
+- [Animation on How the Machine Learns a Linear Regression](https://youtu.be/Ht3rYS-JilE)
 - [Princípios de Modelagem Preditiva por André Lima (Artigo)](https://andlima.github.io/principios-preditiva)
 Este material apresenta um conjunto de princípios que ajudam a direcionar a construção de um modelo preditivo para problemas reais. É fruto da experiência do autor trabalhando com ciência de dados (principalmente machine learning) em consultoria para diferentes indústrias.
 
