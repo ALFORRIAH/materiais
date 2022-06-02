@@ -6,7 +6,7 @@ _Repositório de recomendação de materiais da mentoria_
 * [Estatística](#estatística)
 * [Inteligência Artificial](#inteligência-artificial)
 * [Matemática para Computação](#matemática)
-* [Programação](#programação)
+* [Programação e Pensamento Computacional](#programação)
 * [Visualização de Dados](#visualização-de-dados)
 
 ## Análise de Dados
@@ -23,6 +23,8 @@ _Repositório de recomendação de materiais da mentoria_
 - [Animation on How the Machine Learns a Linear Regression](https://youtu.be/Ht3rYS-JilE)
 - [Princípios de Modelagem Preditiva por André Lima (Artigo)](https://andlima.github.io/principios-preditiva)
 Este material apresenta um conjunto de princípios que ajudam a direcionar a construção de um modelo preditivo para problemas reais. É fruto da experiência do autor trabalhando com ciência de dados (principalmente machine learning) em consultoria para diferentes indústrias.
+
+- [Reinforcement Learning, An introduction (Livro)](http://incompleteideas.net/book/RLbook2020.pdf)
 
 - [Programa de cursos integrados Machine Learning Engineering for Production (MLOps)](https://pt.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [MLOps Guide](https://mlops-guide.github.io)
@@ -62,6 +64,7 @@ Recomendações:
 - [How to think like a Computer Scientist](https://runestone.academy/ns/books/published/thinkcspy/index.html) ([versão original aqui](https://openbookproject.net/thinkcs/python/english3e/))
 - [Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/)
 - [Problem Solving Using Computational Thinking - University of Michigan](https://www.coursera.org/learn/compthinking)
+- [How to Think Like a Computer Scientist](https://runestone.academy/ns/books/published/thinkcspy/index.html)
 
 ## SQL
 - [Curso de SQL para Análise de Dados](https://www.youtube.com/watch?v=BRPUA0EgS4I&list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
