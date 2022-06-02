@@ -32,7 +32,7 @@ Este material apresenta um conjunto de princípios que ajudam a direcionar a con
 ## Ciência de Dados
 - [7days of code | Alura - Data Science](https://7daysofcode.io/matricula/data-science)
 - [Quais são as etapas da Ciência de Dados de ponta-a-ponta? (Vídeo)](https://www.youtube.com/watch?time_continue=6&v=cSEVa6TzAy0)
-- [TDSP: Team Data Science Process, proposed by Microsoft in 2018] (https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
+- [TDSP: Team Data Science Process, proposed by Microsoft in 2018](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/overview)
 
 ## Estatística
 - [Disciplina de Estatística Básica - UFPR](https://www.youtube.com/playlist?list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM)
