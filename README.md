@@ -7,6 +7,7 @@ _Repositório de recomendação de materiais da mentoria_
 * [Estatística](#estatística)
 * [Inteligência Artificial](#inteligência-artificial)
 * [Matemática para Computação](#matemática)
+* [Processamento de Linguagem Natural](#processamento-de-linguagem-natural)
 * [Programação e Pensamento Computacional](#programação)
 * [Visualização de Dados](#visualização-de-dados)
 
@@ -28,7 +29,7 @@ Este material apresenta um conjunto de princípios que ajudam a direcionar a con
 - [Programa de cursos integrados Machine Learning Engineering for Production (MLOps)](https://pt.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [MLOps Guide](https://mlops-guide.github.io)
 
-## Aprendizado de Máquina
+## Aprendizado por Reforço
 - [Reinforcement Learning, An introduction (Livro)](http://incompleteideas.net/book/RLbook2020.pdf)
 - [A Beginner's Guide to Deep Reinforcement Learning (Artigo)](https://wiki.pathmind.com/deep-reinforcement-learning)
 
@@ -39,6 +40,7 @@ Este material apresenta um conjunto de princípios que ajudam a direcionar a con
 
 ## Estatística
 - [Disciplina de Estatística Básica - UFPR](https://www.youtube.com/playlist?list=PLQcLb-PUD9WNZnVBYDKEonioyJw3nEaOM)
+- [Estatística Prática para Cientistas de Dados (Livro)](https://amzn.to/3vZxeWc)
 
 ## Ética & IA
 - [Machine Learning Bias in Computer Vision: Why do I have to care?](https://www.youtube.com/watch?v=Jh5hvUVTMK4&t=1151s)
@@ -58,6 +60,12 @@ Não adianta tentar aprender aspectos avançados se você não tem uma base razo
 Discutimos alguns tópicos de matemática usando programação em uma série de lives no ano passado: [Matemática Elementar para Computação](https://matematica.pgdinamica.com/).
 
 Se você tem maturidade matemática e busca algo mais avançado, por exemplo, para entender deep learning, recomendamos este outro [livro especifico para redes neurais](https://www.deeplearningbook.org/), que dedica 4 capítulos à revisão de fundamentos matemáticos.
+
+## Processamento de Linguagem Natural
+- [Speech and Language Processing (3rd ed. draft) Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
+- [CS224n: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+- [Hugging Face Course](https://huggingface.co/course/chapter1/1?fw=pt)
+- [Papers with Code - Natural Language Processing](https://paperswithcode.com/area/natural-language-processing)
 
 ## Programação
 Além da base matemática, a base de computação também é muito importante. Quando a gente não tira um tempo pra entender como algumas coisas funcionam, pra experimentar e aprender com os erros em exemplos simples, tendemos a travar por muito mais tempo em casos mais complicados. E o pior, se o seu conhecimento for completamente disperso, você vai demorar mais para aprender coisas novas, porque não consegue relacioná-las ao que já conhece. 
