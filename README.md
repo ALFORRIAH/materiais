@@ -2,7 +2,8 @@
 _Repositório de recomendação de materiais da mentoria_
 
 * [Análise de Dados](#análise-de-dados)
-* [Aprendizado de Máquina](#aprendizdo-de-máquina)
+* [Aprendizado de Máquina](#aprendizado-de-máquina)
+* [Aprendizado por Reforço](#aprendizado-por-reforço)
 * [Estatística](#estatística)
 * [Inteligência Artificial](#inteligência-artificial)
 * [Matemática para Computação](#matemática)
@@ -24,10 +25,12 @@ _Repositório de recomendação de materiais da mentoria_
 - [Princípios de Modelagem Preditiva por André Lima (Artigo)](https://andlima.github.io/principios-preditiva)
 Este material apresenta um conjunto de princípios que ajudam a direcionar a construção de um modelo preditivo para problemas reais. É fruto da experiência do autor trabalhando com ciência de dados (principalmente machine learning) em consultoria para diferentes indústrias.
 
-- [Reinforcement Learning, An introduction (Livro)](http://incompleteideas.net/book/RLbook2020.pdf)
-
 - [Programa de cursos integrados Machine Learning Engineering for Production (MLOps)](https://pt.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [MLOps Guide](https://mlops-guide.github.io)
+
+## Aprendizado de Máquina
+- [Reinforcement Learning, An introduction (Livro)](http://incompleteideas.net/book/RLbook2020.pdf)
+- [A Beginner's Guide to Deep Reinforcement Learning (Artigo)](https://wiki.pathmind.com/deep-reinforcement-learning)
 
 ## Ciência de Dados
 - [7days of code | Alura - Data Science](https://7daysofcode.io/matricula/data-science)
