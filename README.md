@@ -29,6 +29,9 @@ Este material apresenta um conjunto de princípios que ajudam a direcionar a con
 - [Programa de cursos integrados Machine Learning Engineering for Production (MLOps)](https://pt.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 - [MLOps Guide](https://mlops-guide.github.io)
 
+## Aprendizado Profundo
+- [Practical Deep Learning - Fast AI Course](https://course.fast.ai/)
+
 ## Aprendizado por Reforço
 - [Reinforcement Learning, An introduction (Livro)](http://incompleteideas.net/book/RLbook2020.pdf)
 - [A Beginner's Guide to Deep Reinforcement Learning (Artigo)](https://wiki.pathmind.com/deep-reinforcement-learning)
