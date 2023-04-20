@@ -19,6 +19,7 @@ _Repositório de recomendação de materiais da mentoria_
 - [What's Going On in This Graph? - New York Times Learning](https://www.nytimes.com/column/whats-going-on-in-this-graph)
 
 ## Aprendizado de Máquina
+- [MLU-EXPLAIN - Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 - [Como projetos de Machine Learning falham por Flávio Clésio (Vídeo)](https://www.youtube.com/watch?v=FsCa_tVAqfo)
 - [O que faz uma pessoa engenheira de Machine Learning? com Thiago Santos(Vídeo)](https://youtu.be/BRhz6v-jfMM)
 - [Machine Learning em Python (Playlist Programação Dinâmica)](https://www.youtube.com/watch?v=u8xgqvk16EA&list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q)
